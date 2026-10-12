@@ -1,5 +1,5 @@
 ---
-title: "Calculating fuel efficiencey in NimbleBit's Pocket Planes"
+title: "Calculating fuel efficiencey in Nimblebit's Pocket Planes"
 author:
   - name: "Jaycee Kennett"
 date: today
