@@ -85,13 +85,12 @@ $$
 giving:
 
 $$
-fuel cost
+cost 
 =
 0.000623609
 \times D
 \times S
 \times W
-}
 $$
 
 
