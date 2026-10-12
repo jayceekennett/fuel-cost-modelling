@@ -1,0 +1,1508 @@
+{
+  "Adelaide": {
+    "name": "Adelaide",
+    "level": 1,
+    "xcord": 9852,
+    "ycord": 6288
+  },
+  "Aden": {
+    "name": "Aden",
+    "level": 1,
+    "xcord": 7056,
+    "ycord": 4752
+  },
+  "Ahmedabad": {
+    "name": "Ahmedabad",
+    "level": 2,
+    "xcord": 7864,
+    "ycord": 4472
+  },
+  "Al Fashir": {
+    "name": "Al Fashir",
+    "level": 1,
+    "xcord": 6404,
+    "ycord": 4696
+  },
+  "Algiers": {
+    "name": "Algiers",
+    "level": 2,
+    "xcord": 5768,
+    "ycord": 3992
+  },
+  "Alice Springs": {
+    "name": "Alice Springs",
+    "level": 1,
+    "xcord": 9724,
+    "ycord": 5928
+  },
+  "Amsterdam": {
+    "name": "Amsterdam",
+    "level": 1,
+    "xcord": 5844,
+    "ycord": 3320
+  },
+  "Anadyr": {
+    "name": "Anadyr",
+    "level": 1,
+    "xcord": 10996,
+    "ycord": 2592
+  },
+  "Anchorage": {
+    "name": "Anchorage",
+    "level": 1,
+    "xcord": 1180,
+    "ycord": 2828
+  },
+  "Araguaina": {
+    "name": "Araguaina",
+    "level": 1,
+    "xcord": 4228,
+    "ycord": 5352
+  },
+  "Asuncion": {
+    "name": "Asuncion",
+    "level": 1,
+    "xcord": 3972,
+    "ycord": 5988
+  },
+  "Athens": {
+    "name": "Athens",
+    "level": 1,
+    "xcord": 6396,
+    "ycord": 3928
+  },
+  "Atlanta": {
+    "name": "Atlanta",
+    "level": 2,
+    "xcord": 3164,
+    "ycord": 4112
+  },
+  "Auckland": {
+    "name": "Auckland",
+    "level": 1,
+    "xcord": 10908,
+    "ycord": 6352
+  },
+  "Baghdad": {
+    "name": "Baghdad",
+    "level": 2,
+    "xcord": 6984,
+    "ycord": 4080
+  },
+  "Bamako": {
+    "name": "Bamako",
+    "level": 1,
+    "xcord": 5476,
+    "ycord": 4768
+  },
+  "Bangalore": {
+    "name": "Bangalore",
+    "level": 3,
+    "xcord": 8004,
+    "ycord": 4780
+  },
+  "Bangkok": {
+    "name": "Bangkok",
+    "level": 3,
+    "xcord": 8680,
+    "ycord": 4752
+  },
+  "Barcelona": {
+    "name": "Barcelona",
+    "level": 2,
+    "xcord": 5740,
+    "ycord": 3808
+  },
+  "Bariloche": {
+    "name": "Bariloche",
+    "level": 1,
+    "xcord": 3548,
+    "ycord": 6568
+  },
+  "Barrow": {
+    "name": "Barrow",
+    "level": 1,
+    "xcord": 1008,
+    "ycord": 2084
+  },
+  "Beijing": {
+    "name": "Beijing",
+    "level": 3,
+    "xcord": 9180,
+    "ycord": 3864
+  },
+  "Beira": {
+    "name": "Beira",
+    "level": 1,
+    "xcord": 6696,
+    "ycord": 5776
+  },
+  "Beirut": {
+    "name": "Beirut",
+    "level": 1,
+    "xcord": 6772,
+    "ycord": 4080
+  },
+  "Belem": {
+    "name": "Belem",
+    "level": 1,
+    "xcord": 4216,
+    "ycord": 5196
+  },
+  "Belfast": {
+    "name": "Belfast",
+    "level": 1,
+    "xcord": 5472,
+    "ycord": 3220
+  },
+  "Belgrade": {
+    "name": "Belgrade",
+    "level": 1,
+    "xcord": 6312,
+    "ycord": 3648
+  },
+  "Benghazi": {
+    "name": "Benghazi",
+    "level": 1,
+    "xcord": 6288,
+    "ycord": 4168
+  },
+  "Bergen": {
+    "name": "Bergen",
+    "level": 1,
+    "xcord": 5832,
+    "ycord": 2892
+  },
+  "Berlin": {
+    "name": "Berlin",
+    "level": 2,
+    "xcord": 6112,
+    "ycord": 3324
+  },
+  "Bern": {
+    "name": "Bern",
+    "level": 1,
+    "xcord": 5920,
+    "ycord": 3544
+  },
+  "Bismarck": {
+    "name": "Bismarck",
+    "level": 1,
+    "xcord": 2572,
+    "ycord": 3592
+  },
+  "Bogota": {
+    "name": "Bogota",
+    "level": 2,
+    "xcord": 3440,
+    "ycord": 4980
+  },
+  "Bordeaux": {
+    "name": "Bordeaux",
+    "level": 1,
+    "xcord": 5668,
+    "ycord": 3640
+  },
+  "Boston": {
+    "name": "Boston",
+    "level": 2,
+    "xcord": 3540,
+    "ycord": 3760
+  },
+  "Brasilia": {
+    "name": "Brasilia",
+    "level": 1,
+    "xcord": 4176,
+    "ycord": 5676
+  },
+  "Brisbane": {
+    "name": "Brisbane",
+    "level": 1,
+    "xcord": 10260,
+    "ycord": 6056
+  },
+  "Broken Hill": {
+    "name": "Broken Hill",
+    "level": 1,
+    "xcord": 9944,
+    "ycord": 6200
+  },
+  "Broome": {
+    "name": "Broome",
+    "level": 1,
+    "xcord": 9376,
+    "ycord": 5672
+  },
+  "Brussels": {
+    "name": "Brussels",
+    "level": 1,
+    "xcord": 5816,
+    "ycord": 3412
+  },
+  "Bucharest": {
+    "name": "Bucharest",
+    "level": 1,
+    "xcord": 6604,
+    "ycord": 3648
+  },
+  "Buenos Aires": {
+    "name": "Buenos Aires",
+    "level": 3,
+    "xcord": 3952,
+    "ycord": 6300
+  },
+  "Butwal": {
+    "name": "Butwal",
+    "level": 1,
+    "xcord": 8176,
+    "ycord": 4312
+  },
+  "Cairns": {
+    "name": "Cairns",
+    "level": 1,
+    "xcord": 10028,
+    "ycord": 5696
+  },
+  "Cairo": {
+    "name": "Cairo",
+    "level": 3,
+    "xcord": 6584,
+    "ycord": 4252
+  },
+  "Calgary": {
+    "name": "Calgary",
+    "level": 1,
+    "xcord": 2308,
+    "ycord": 3328
+  },
+  "Campo Grande": {
+    "name": "Campo Grande",
+    "level": 1,
+    "xcord": 4008,
+    "ycord": 5808
+  },
+  "Cancun": {
+    "name": "Cancun",
+    "level": 1,
+    "xcord": 3068,
+    "ycord": 4532
+  },
+  "Capetown": {
+    "name": "Capetown",
+    "level": 1,
+    "xcord": 6228,
+    "ycord": 6220
+  },
+  "Caracas": {
+    "name": "Caracas",
+    "level": 2,
+    "xcord": 3640,
+    "ycord": 4836
+  },
+  "Casablanca": {
+    "name": "Casablanca",
+    "level": 1,
+    "xcord": 5456,
+    "ycord": 4124
+  },
+  "Cebu": {
+    "name": "Cebu",
+    "level": 1,
+    "xcord": 9416,
+    "ycord": 4856
+  },
+  "Charleston": {
+    "name": "Charleston",
+    "level": 1,
+    "xcord": 3292,
+    "ycord": 4140
+  },
+  "Chengdu": {
+    "name": "Chengdu",
+    "level": 2,
+    "xcord": 8656,
+    "ycord": 4204
+  },
+  "Chicago": {
+    "name": "Chicago",
+    "level": 3,
+    "xcord": 3028,
+    "ycord": 3724
+  },
+  "Chihuahua": {
+    "name": "Chihuahua",
+    "level": 1,
+    "xcord": 2524,
+    "ycord": 4280
+  },
+  "Christchurch": {
+    "name": "Christchurch",
+    "level": 1,
+    "xcord": 10848,
+    "ycord": 6600
+  },
+  "Cincinnati": {
+    "name": "Cincinnati",
+    "level": 1,
+    "xcord": 3164,
+    "ycord": 3900
+  },
+  "Copenhagen": {
+    "name": "Copenhagen",
+    "level": 1,
+    "xcord": 6064,
+    "ycord": 3132
+  },
+  "Cordoba, Argentina": {
+    "name": "Cordoba, Argentina",
+    "level": 1,
+    "xcord": 3796,
+    "ycord": 6164
+  },
+  "Cordoba, Spain": {
+    "name": "Cordoba, Spain",
+    "level": 1,
+    "xcord": 5536,
+    "ycord": 3928
+  },
+  "Cuiaba": {
+    "name": "Cuiaba",
+    "level": 1,
+    "xcord": 3952,
+    "ycord": 5636
+  },
+  "Cuzco": {
+    "name": "Cuzco",
+    "level": 1,
+    "xcord": 3536,
+    "ycord": 5560
+  },
+  "Dakar": {
+    "name": "Dakar",
+    "level": 1,
+    "xcord": 5184,
+    "ycord": 4716
+  },
+  "Dallas": {
+    "name": "Dallas",
+    "level": 2,
+    "xcord": 2768,
+    "ycord": 4144
+  },
+  "Darwin": {
+    "name": "Darwin",
+    "level": 1,
+    "xcord": 9628,
+    "ycord": 5540
+  },
+  "Delhi": {
+    "name": "Delhi",
+    "level": 3,
+    "xcord": 7972,
+    "ycord": 4272
+  },
+  "Denver": {
+    "name": "Denver",
+    "level": 1,
+    "xcord": 2500,
+    "ycord": 3860
+  },
+  "Detroit": {
+    "name": "Detroit",
+    "level": 2,
+    "xcord": 3188,
+    "ycord": 3780
+  },
+  "Dhaka": {
+    "name": "Dhaka",
+    "level": 3,
+    "xcord": 8376,
+    "ycord": 4436
+  },
+  "Djibouti": {
+    "name": "Djibouti",
+    "level": 1,
+    "xcord": 7008,
+    "ycord": 4800
+  },
+  "Durban": {
+    "name": "Durban",
+    "level": 1,
+    "xcord": 6596,
+    "ycord": 6104
+  },
+  "Easter Island": {
+    "name": "Easter Island",
+    "level": 1,
+    "xcord": 2396,
+    "ycord": 5980
+  },
+  "Edmonton": {
+    "name": "Edmonton",
+    "level": 1,
+    "xcord": 2336,
+    "ycord": 3192
+  },
+  "Fairbanks": {
+    "name": "Fairbanks",
+    "level": 1,
+    "xcord": 1240,
+    "ycord": 2612
+  },
+  "Fortaleza": {
+    "name": "Fortaleza",
+    "level": 1,
+    "xcord": 4484,
+    "ycord": 5264
+  },
+  "Georgetown": {
+    "name": "Georgetown",
+    "level": 1,
+    "xcord": 3940,
+    "ycord": 4968
+  },
+  "Geraldton": {
+    "name": "Geraldton",
+    "level": 1,
+    "xcord": 9132,
+    "ycord": 6028
+  },
+  "Glasgow": {
+    "name": "Glasgow",
+    "level": 1,
+    "xcord": 5568,
+    "ycord": 3124
+  },
+  "Goose Bay": {
+    "name": "Goose Bay",
+    "level": 1,
+    "xcord": 3808,
+    "ycord": 3156
+  },
+  "Guangzhou": {
+    "name": "Guangzhou",
+    "level": 2,
+    "xcord": 9060,
+    "ycord": 4420
+  },
+  "Guatemala": {
+    "name": "Guatemala",
+    "level": 2,
+    "xcord": 2960,
+    "ycord": 4712
+  },
+  "Hammerfest": {
+    "name": "Hammerfest",
+    "level": 1,
+    "xcord": 6408,
+    "ycord": 2152
+  },
+  "Hanoi": {
+    "name": "Hanoi",
+    "level": 2,
+    "xcord": 8840,
+    "ycord": 4528
+  },
+  "Harare": {
+    "name": "Harare",
+    "level": 1,
+    "xcord": 6776,
+    "ycord": 5516
+  },
+  "Harbin": {
+    "name": "Harbin",
+    "level": 2,
+    "xcord": 9476,
+    "ycord": 3600
+  },
+  "Havana": {
+    "name": "Havana",
+    "level": 1,
+    "xcord": 3180,
+    "ycord": 4480
+  },
+  "Helsinki": {
+    "name": "Helsinki",
+    "level": 1,
+    "xcord": 6424,
+    "ycord": 2872
+  },
+  "Hilo": {
+    "name": "Hilo",
+    "level": 1,
+    "xcord": 1072,
+    "ycord": 4576
+  },
+  "Hobart": {
+    "name": "Hobart",
+    "level": 1,
+    "xcord": 10092,
+    "ycord": 6576
+  },
+  "Hong Kong": {
+    "name": "Hong Kong",
+    "level": 2,
+    "xcord": 9116,
+    "ycord": 4468
+  },
+  "Honolulu": {
+    "name": "Honolulu",
+    "level": 2,
+    "xcord": 916,
+    "ycord": 4476
+  },
+  "Houston": {
+    "name": "Houston",
+    "level": 2,
+    "xcord": 2812,
+    "ycord": 4272
+  },
+  "Hyderabad": {
+    "name": "Hyderabad",
+    "level": 2,
+    "xcord": 8040,
+    "ycord": 4652
+  },
+  "In Salah": {
+    "name": "In Salah",
+    "level": 1,
+    "xcord": 5696,
+    "ycord": 4344
+  },
+  "Inuvik": {
+    "name": "Inuvik",
+    "level": 1,
+    "xcord": 1668,
+    "ycord": 2316
+  },
+  "Iqualit": {
+    "name": "Iqualit",
+    "level": 1,
+    "xcord": 3636,
+    "ycord": 2656
+  },
+  "Iquitos": {
+    "name": "Iquitos",
+    "level": 1,
+    "xcord": 3520,
+    "ycord": 5280
+  },
+  "Istanbul": {
+    "name": "Istanbul",
+    "level": 3,
+    "xcord": 6568,
+    "ycord": 3832
+  },
+  "Jakarta": {
+    "name": "Jakarta",
+    "level": 3,
+    "xcord": 8892,
+    "ycord": 5356
+  },
+  "Jerusalem": {
+    "name": "Jerusalem",
+    "level": 1,
+    "xcord": 6740,
+    "ycord": 4168
+  },
+  "Johannesburg": {
+    "name": "Johannesburg",
+    "level": 2,
+    "xcord": 6484,
+    "ycord": 5968
+  },
+  "Juba": {
+    "name": "Juba",
+    "level": 1,
+    "xcord": 6648,
+    "ycord": 4992
+  },
+  "Juneau": {
+    "name": "Juneau",
+    "level": 1,
+    "xcord": 1676,
+    "ycord": 3084
+  },
+  "Kabul": {
+    "name": "Kabul",
+    "level": 1,
+    "xcord": 7776,
+    "ycord": 4048
+  },
+  "Kaduna": {
+    "name": "Kaduna",
+    "level": 1,
+    "xcord": 5904,
+    "ycord": 4828
+  },
+  "Kalgoorlie": {
+    "name": "Kalgoorlie",
+    "level": 1,
+    "xcord": 9384,
+    "ycord": 6124
+  },
+  "Kampala": {
+    "name": "Kampala",
+    "level": 1,
+    "xcord": 6668,
+    "ycord": 5124
+  },
+  "Kananga": {
+    "name": "Kananga",
+    "level": 1,
+    "xcord": 6388,
+    "ycord": 5372
+  },
+  "Kandahar": {
+    "name": "Kandahar",
+    "level": 1,
+    "xcord": 7644,
+    "ycord": 4148
+  },
+  "Kansas City": {
+    "name": "Kansas City",
+    "level": 1,
+    "xcord": 2796,
+    "ycord": 3896
+  },
+  "Karachi": {
+    "name": "Karachi",
+    "level": 3,
+    "xcord": 7684,
+    "ycord": 4384
+  },
+  "Katherine": {
+    "name": "Katherine",
+    "level": 1,
+    "xcord": 9676,
+    "ycord": 5632
+  },
+  "Ketchikan": {
+    "name": "Ketchikan",
+    "level": 1,
+    "xcord": 1804,
+    "ycord": 3212
+  },
+  "Khartoum": {
+    "name": "Khartoum",
+    "level": 2,
+    "xcord": 6668,
+    "ycord": 4716
+  },
+  "Kiev": {
+    "name": "Kiev",
+    "level": 1,
+    "xcord": 6680,
+    "ycord": 3420
+  },
+  "Kinhasa": {
+    "name": "Kinhasa",
+    "level": 3,
+    "xcord": 6104,
+    "ycord": 5248
+  },
+  "Kisangani": {
+    "name": "Kisangani",
+    "level": 1,
+    "xcord": 6428,
+    "ycord": 5084
+  },
+  "Kolkata": {
+    "name": "Kolkata",
+    "level": 3,
+    "xcord": 8296,
+    "ycord": 4488
+  },
+  "Kuching": {
+    "name": "Kuching",
+    "level": 1,
+    "xcord": 8984,
+    "ycord": 5140
+  },
+  "Kuwait City": {
+    "name": "Kuwait City",
+    "level": 1,
+    "xcord": 7100,
+    "ycord": 4248
+  },
+  "La Paz": {
+    "name": "La Paz",
+    "level": 1,
+    "xcord": 3644,
+    "ycord": 5712
+  },
+  "Lagos": {
+    "name": "Lagos",
+    "level": 3,
+    "xcord": 5808,
+    "ycord": 4964
+  },
+  "Las Vegas": {
+    "name": "Las Vegas",
+    "level": 1,
+    "xcord": 2264,
+    "ycord": 4008
+  },
+  "Lhasa": {
+    "name": "Lhasa",
+    "level": 1,
+    "xcord": 8400,
+    "ycord": 4216
+  },
+  "Lilongwe": {
+    "name": "Lilongwe",
+    "level": 1,
+    "xcord": 6720,
+    "ycord": 5596
+  },
+  "Lima": {
+    "name": "Lima",
+    "level": 3,
+    "xcord": 3348,
+    "ycord": 5428
+  },
+  "Lisbon": {
+    "name": "Lisbon",
+    "level": 1,
+    "xcord": 5420,
+    "ycord": 3884
+  },
+  "Livingstone": {
+    "name": "Livingstone",
+    "level": 1,
+    "xcord": 6444,
+    "ycord": 5676
+  },
+  "Lobito": {
+    "name": "Lobito",
+    "level": 1,
+    "xcord": 6116,
+    "ycord": 5528
+  },
+  "London": {
+    "name": "London",
+    "level": 3,
+    "xcord": 5640,
+    "ycord": 3380
+  },
+  "Los Angeles": {
+    "name": "Los Angeles",
+    "level": 3,
+    "xcord": 2104,
+    "ycord": 4092
+  },
+  "Lulea": {
+    "name": "Lulea",
+    "level": 1,
+    "xcord": 6332,
+    "ycord": 2560
+  },
+  "Lyon": {
+    "name": "Lyon",
+    "level": 1,
+    "xcord": 5820,
+    "ycord": 3620
+  },
+  "Madrid": {
+    "name": "Madrid",
+    "level": 2,
+    "xcord": 5580,
+    "ycord": 3820
+  },
+  "Magadan": {
+    "name": "Magadan",
+    "level": 1,
+    "xcord": 10244,
+    "ycord": 2936
+  },
+  "Mahajanga": {
+    "name": "Mahajanga",
+    "level": 1,
+    "xcord": 7076,
+    "ycord": 5664
+  },
+  "Manaus": {
+    "name": "Manaus",
+    "level": 1,
+    "xcord": 3888,
+    "ycord": 5224
+  },
+  "Manchester": {
+    "name": "Manchester",
+    "level": 1,
+    "xcord": 5588,
+    "ycord": 3268
+  },
+  "Manila": {
+    "name": "Manila",
+    "level": 3,
+    "xcord": 9304,
+    "ycord": 4728
+  },
+  "Melbourne": {
+    "name": "Melbourne",
+    "level": 2,
+    "xcord": 10024,
+    "ycord": 6364
+  },
+  "Mexico City": {
+    "name": "Mexico City",
+    "level": 3,
+    "xcord": 2732,
+    "ycord": 4580
+  },
+  "Miami": {
+    "name": "Miami",
+    "level": 2,
+    "xcord": 3276,
+    "ycord": 4384
+  },
+  "Minneapolis": {
+    "name": "Minneapolis",
+    "level": 1,
+    "xcord": 2876,
+    "ycord": 3632
+  },
+  "Minsk": {
+    "name": "Minsk",
+    "level": 1,
+    "xcord": 6576,
+    "ycord": 3228
+  },
+  "Mogadishu": {
+    "name": "Mogadishu",
+    "level": 1,
+    "xcord": 7072,
+    "ycord": 5092
+  },
+  "Mombasa": {
+    "name": "Mombasa",
+    "level": 1,
+    "xcord": 6852,
+    "ycord": 5280
+  },
+  "Monrovia": {
+    "name": "Monrovia",
+    "level": 1,
+    "xcord": 5356,
+    "ycord": 4972
+  },
+  "Monterrey": {
+    "name": "Monterrey",
+    "level": 2,
+    "xcord": 2684,
+    "ycord": 4344
+  },
+  "Montreal": {
+    "name": "Montreal",
+    "level": 1,
+    "xcord": 3464,
+    "ycord": 3648
+  },
+  "Moscow": {
+    "name": "Moscow",
+    "level": 3,
+    "xcord": 6876,
+    "ycord": 3120
+  },
+  "Mount Isa": {
+    "name": "Mount Isa",
+    "level": 1,
+    "xcord": 9872,
+    "ycord": 5820
+  },
+  "Mumbai": {
+    "name": "Mumbai",
+    "level": 3,
+    "xcord": 7880,
+    "ycord": 4588
+  },
+  "Munich": {
+    "name": "Munich",
+    "level": 1,
+    "xcord": 6028,
+    "ycord": 3512
+  },
+  "Murmansk": {
+    "name": "Murmansk",
+    "level": 1,
+    "xcord": 6660,
+    "ycord": 2248
+  },
+  "Muscat": {
+    "name": "Muscat",
+    "level": 1,
+    "xcord": 7432,
+    "ycord": 4444
+  },
+  "Nagasaki": {
+    "name": "Nagasaki",
+    "level": 1,
+    "xcord": 9580,
+    "ycord": 4128
+  },
+  "Nairobi": {
+    "name": "Nairobi",
+    "level": 2,
+    "xcord": 6772,
+    "ycord": 5200
+  },
+  "Nanping": {
+    "name": "Nanping",
+    "level": 1,
+    "xcord": 9184,
+    "ycord": 4328
+  },
+  "Naples": {
+    "name": "Naples",
+    "level": 1,
+    "xcord": 6128,
+    "ycord": 3840
+  },
+  "New Orleans": {
+    "name": "New Orleans",
+    "level": 1,
+    "xcord": 2976,
+    "ycord": 4236
+  },
+  "New York": {
+    "name": "New York",
+    "level": 3,
+    "xcord": 3456,
+    "ycord": 3824
+  },
+  "Newman": {
+    "name": "Newman",
+    "level": 1,
+    "xcord": 9340,
+    "ycord": 5920
+  },
+  "Nome": {
+    "name": "Nome",
+    "level": 1,
+    "xcord": 708,
+    "ycord": 2628
+  },
+  "Norilsk": {
+    "name": "Norilsk",
+    "level": 1,
+    "xcord": 8292,
+    "ycord": 2304
+  },
+  "Novosibirsk": {
+    "name": "Novosibirsk",
+    "level": 1,
+    "xcord": 8252,
+    "ycord": 3192
+  },
+  "Nuuk": {
+    "name": "Nuuk",
+    "level": 1,
+    "xcord": 4192,
+    "ycord": 2716
+  },
+  "Oaxaca": {
+    "name": "Oaxaca",
+    "level": 1,
+    "xcord": 2796,
+    "ycord": 4644
+  },
+  "Orlando": {
+    "name": "Orlando",
+    "level": 1,
+    "xcord": 3224,
+    "ycord": 4288
+  },
+  "Osaka": {
+    "name": "Osaka",
+    "level": 2,
+    "xcord": 9732,
+    "ycord": 4068
+  },
+  "Oslo": {
+    "name": "Oslo",
+    "level": 1,
+    "xcord": 5980,
+    "ycord": 2944
+  },
+  "Ottawa": {
+    "name": "Ottawa",
+    "level": 1,
+    "xcord": 3352,
+    "ycord": 3648
+  },
+  "Oulu": {
+    "name": "Oulu",
+    "level": 1,
+    "xcord": 6476,
+    "ycord": 2592
+  },
+  "Padang": {
+    "name": "Padang",
+    "level": 1,
+    "xcord": 8716,
+    "ycord": 5212
+  },
+  "Palu": {
+    "name": "Palu",
+    "level": 1,
+    "xcord": 9280,
+    "ycord": 5196
+  },
+  "Panama": {
+    "name": "Panama",
+    "level": 1,
+    "xcord": 3312,
+    "ycord": 4884
+  },
+  "Paris": {
+    "name": "Paris",
+    "level": 3,
+    "xcord": 5744,
+    "ycord": 3484
+  },
+  "Perm": {
+    "name": "Perm",
+    "level": 1,
+    "xcord": 7404,
+    "ycord": 3020
+  },
+  "Perth": {
+    "name": "Perth",
+    "level": 1,
+    "xcord": 9168,
+    "ycord": 6176
+  },
+  "Pevek": {
+    "name": "Pevek",
+    "level": 1,
+    "xcord": 10836,
+    "ycord": 2232
+  },
+  "Philadelphia": {
+    "name": "Philadelphia",
+    "level": 2,
+    "xcord": 3392,
+    "ycord": 3888
+  },
+  "Phoenix": {
+    "name": "Phoenix",
+    "level": 2,
+    "xcord": 2420,
+    "ycord": 4124
+  },
+  "Port Elizabeth": {
+    "name": "Port Elizabeth",
+    "level": 1,
+    "xcord": 6464,
+    "ycord": 6220
+  },
+  "Port Hedland": {
+    "name": "Port Hedland",
+    "level": 1,
+    "xcord": 9304,
+    "ycord": 5796
+  },
+  "Port Moresby": {
+    "name": "Port Moresby",
+    "level": 1,
+    "xcord": 10132,
+    "ycord": 5472
+  },
+  "Port Sudan": {
+    "name": "Port Sudan",
+    "level": 1,
+    "xcord": 6772,
+    "ycord": 4596
+  },
+  "Portland": {
+    "name": "Portland",
+    "level": 1,
+    "xcord": 1964,
+    "ycord": 3660
+  },
+  "Porto Velho": {
+    "name": "Porto Velho",
+    "level": 1,
+    "xcord": 3764,
+    "ycord": 5396
+  },
+  "Prague": {
+    "name": "Prague",
+    "level": 1,
+    "xcord": 6148,
+    "ycord": 3436
+  },
+  "Punta Arenas": {
+    "name": "Punta Arenas",
+    "level": 1,
+    "xcord": 3592,
+    "ycord": 7108
+  },
+  "Quebec": {
+    "name": "Quebec",
+    "level": 1,
+    "xcord": 3520,
+    "ycord": 3560
+  },
+  "Quito": {
+    "name": "Quito",
+    "level": 1,
+    "xcord": 3308,
+    "ycord": 5180
+  },
+  "Rangoon": {
+    "name": "Rangoon",
+    "level": 2,
+    "xcord": 8548,
+    "ycord": 4668
+  },
+  "Recife": {
+    "name": "Recife",
+    "level": 2,
+    "xcord": 4616,
+    "ycord": 5408
+  },
+  "Reykjavik": {
+    "name": "Reykjavik",
+    "level": 1,
+    "xcord": 5000,
+    "ycord": 2624
+  },
+  "Riga": {
+    "name": "Riga",
+    "level": 1,
+    "xcord": 6416,
+    "ycord": 3088
+  },
+  "Rio de Janeiro": {
+    "name": "Rio de Janeiro",
+    "level": 3,
+    "xcord": 4376,
+    "ycord": 5864
+  },
+  "Riyadh": {
+    "name": "Riyadh",
+    "level": 2,
+    "xcord": 7040,
+    "ycord": 4408
+  },
+  "Rockhampton": {
+    "name": "Rockhampton",
+    "level": 1,
+    "xcord": 10212,
+    "ycord": 5924
+  },
+  "Rome": {
+    "name": "Rome",
+    "level": 1,
+    "xcord": 6032,
+    "ycord": 3768
+  },
+  "Salt Lake City": {
+    "name": "Salt Lake City",
+    "level": 1,
+    "xcord": 2292,
+    "ycord": 3820
+  },
+  "Salvador": {
+    "name": "Salvador",
+    "level": 2,
+    "xcord": 4504,
+    "ycord": 5540
+  },
+  "San Diego": {
+    "name": "San Diego",
+    "level": 1,
+    "xcord": 2176,
+    "ycord": 4164
+  },
+  "San Francisco": {
+    "name": "San Francisco",
+    "level": 2,
+    "xcord": 2016,
+    "ycord": 3924
+  },
+  "San Jose": {
+    "name": "San Jose",
+    "level": 1,
+    "xcord": 3156,
+    "ycord": 4848
+  },
+  "Santiago": {
+    "name": "Santiago",
+    "level": 2,
+    "xcord": 3528,
+    "ycord": 6200
+  },
+  "Santo Domingo": {
+    "name": "Santo Domingo",
+    "level": 1,
+    "xcord": 3552,
+    "ycord": 4600
+  },
+  "Sao Paolo": {
+    "name": "Sao Paolo",
+    "level": 3,
+    "xcord": 4248,
+    "ycord": 5920
+  },
+  "Sapporo": {
+    "name": "Sapporo",
+    "level": 1,
+    "xcord": 9916,
+    "ycord": 3744
+  },
+  "Saskatoon": {
+    "name": "Saskatoon",
+    "level": 1,
+    "xcord": 2540,
+    "ycord": 3280
+  },
+  "Seattle": {
+    "name": "Seattle",
+    "level": 2,
+    "xcord": 1964,
+    "ycord": 3544
+  },
+  "Sendai": {
+    "name": "Sendai",
+    "level": 1,
+    "xcord": 9908,
+    "ycord": 3924
+  },
+  "Seoul": {
+    "name": "Seoul",
+    "level": 3,
+    "xcord": 9488,
+    "ycord": 3956
+  },
+  "Shanghai": {
+    "name": "Shanghai",
+    "level": 3,
+    "xcord": 9292,
+    "ycord": 4208
+  },
+  "Shenyang": {
+    "name": "Shenyang",
+    "level": 3,
+    "xcord": 9380,
+    "ycord": 3792
+  },
+  "Singapore": {
+    "name": "Singapore",
+    "level": 2,
+    "xcord": 8756,
+    "ycord": 5088
+  },
+  "Spokane": {
+    "name": "Spokane",
+    "level": 1,
+    "xcord": 2200,
+    "ycord": 3568
+  },
+  "St. Louis": {
+    "name": "St. Louis",
+    "level": 1,
+    "xcord": 2948,
+    "ycord": 3924
+  },
+  "St. Petersburg": {
+    "name": "St. Petersburg",
+    "level": 2,
+    "xcord": 6580,
+    "ycord": 2900
+  },
+  "Stockholm": {
+    "name": "Stockholm",
+    "level": 1,
+    "xcord": 6204,
+    "ycord": 2944
+  },
+  "Sydney": {
+    "name": "Sydney",
+    "level": 2,
+    "xcord": 10188,
+    "ycord": 6260
+  },
+  "Taipei": {
+    "name": "Taipei",
+    "level": 2,
+    "xcord": 9316,
+    "ycord": 4408
+  },
+  "Tbilisi": {
+    "name": "Tbilisi",
+    "level": 1,
+    "xcord": 6984,
+    "ycord": 3744
+  },
+  "Tehran": {
+    "name": "Tehran",
+    "level": 3,
+    "xcord": 7188,
+    "ycord": 3988
+  },
+  "Teresina": {
+    "name": "Teresina",
+    "level": 1,
+    "xcord": 4360,
+    "ycord": 5312
+  },
+  "Thunder Bay": {
+    "name": "Thunder Bay",
+    "level": 1,
+    "xcord": 2996,
+    "ycord": 3488
+  },
+  "Tiksi": {
+    "name": "Tiksi",
+    "level": 1,
+    "xcord": 9536,
+    "ycord": 2056
+  },
+  "Timbuktu": {
+    "name": "Timbuktu",
+    "level": 1,
+    "xcord": 5596,
+    "ycord": 4648
+  },
+  "Tokyo": {
+    "name": "Tokyo",
+    "level": 3,
+    "xcord": 9868,
+    "ycord": 4056
+  },
+  "Toronto": {
+    "name": "Toronto",
+    "level": 2,
+    "xcord": 3268,
+    "ycord": 3700
+  },
+  "Tripoli": {
+    "name": "Tripoli",
+    "level": 1,
+    "xcord": 6024,
+    "ycord": 4152
+  },
+  "Trondheim": {
+    "name": "Trondheim",
+    "level": 1,
+    "xcord": 5960,
+    "ycord": 2700
+  },
+  "Ulan Bator": {
+    "name": "Ulan Bator",
+    "level": 1,
+    "xcord": 8884,
+    "ycord": 3544
+  },
+  "Urumqi": {
+    "name": "Urumqi",
+    "level": 1,
+    "xcord": 8348,
+    "ycord": 3696
+  },
+  "Vancouver": {
+    "name": "Vancouver",
+    "level": 1,
+    "xcord": 1952,
+    "ycord": 3424
+  },
+  "Venice": {
+    "name": "Venice",
+    "level": 1,
+    "xcord": 6032,
+    "ycord": 3636
+  },
+  "Vienna": {
+    "name": "Vienna",
+    "level": 1,
+    "xcord": 6212,
+    "ycord": 3512
+  },
+  "Vladivostok": {
+    "name": "Vladivostok",
+    "level": 1,
+    "xcord": 9608,
+    "ycord": 3732
+  },
+  "Volgograd": {
+    "name": "Volgograd",
+    "level": 1,
+    "xcord": 6984,
+    "ycord": 3488
+  },
+  "Warsaw": {
+    "name": "Warsaw",
+    "level": 1,
+    "xcord": 6312,
+    "ycord": 3324
+  },
+  "Washington D.C.": {
+    "name": "Washington D.C.",
+    "level": 2,
+    "xcord": 3356,
+    "ycord": 3952
+  },
+  "Wellington": {
+    "name": "Wellington",
+    "level": 1,
+    "xcord": 10940,
+    "ycord": 6508
+  },
+  "Whitehorse": {
+    "name": "Whitehorse",
+    "level": 1,
+    "xcord": 1612,
+    "ycord": 2892
+  },
+  "Windhoek": {
+    "name": "Windhoek",
+    "level": 1,
+    "xcord": 6208,
+    "ycord": 5872
+  },
+  "Winnipeg": {
+    "name": "Winnipeg",
+    "level": 1,
+    "xcord": 2756,
+    "ycord": 3448
+  },
+  "Xi'an": {
+    "name": "Xi'an",
+    "level": 3,
+    "xcord": 9000,
+    "ycord": 4084
+  },
+  "Xining": {
+    "name": "Xining",
+    "level": 1,
+    "xcord": 8632,
+    "ycord": 3980
+  },
+  "Yakutsk": {
+    "name": "Yakutsk",
+    "level": 1,
+    "xcord": 9576,
+    "ycord": 2804
+  },
+  "Yellowknife": {
+    "name": "Yellowknife",
+    "level": 1,
+    "xcord": 2264,
+    "ycord": 2764
+  },
+  "Yinchuan": {
+    "name": "Yinchuan",
+    "level": 1,
+    "xcord": 8876,
+    "ycord": 3896
+  },
+  "Zanzibar": {
+    "name": "Zanzibar",
+    "level": 1,
+    "xcord": 6856,
+    "ycord": 5392
+  }
+}

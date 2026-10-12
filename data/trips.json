@@ -1,0 +1,482 @@
+[
+    {
+        "start": "Seoul",
+        "end": "Shanghai",
+        "speed": 326,
+        "weight": 4,
+        "cost": 257,
+        "dist": 319.2
+    },
+    {
+        "start": "Seoul",
+        "end": "Bangalore",
+        "speed": 326,
+        "weight": 4,
+        "cost": 1383,
+        "dist": 1697.4
+    },
+    {
+        "start": "Seoul",
+        "end": "Bangkok",
+        "speed": 326,
+        "weight": 4,
+        "cost": 923,
+        "dist": 1134.2
+    },
+    {
+        "start": "Algiers",
+        "end": "Istanbul",
+        "speed": 272,
+        "weight": 5,
+        "cost": 690,
+        "dist": 815.8
+    },
+    {
+        "start": "Algiers",
+        "end": "London",
+        "speed": 272,
+        "weight": 5,
+        "cost": 530,
+        "dist": 625.2
+    },
+    {
+        "start": "Algiers",
+        "end": "Moscow",
+        "speed": 272,
+        "weight": 5,
+        "cost": 1196,
+        "dist": 1410.0
+    },
+    {
+        "start": "Dhaka",
+        "end": "Istanbul",
+        "speed": 295,
+        "weight": 12,
+        "cost": 4212,
+        "dist": 1906.2
+    },
+    {
+        "start": "Dhaka",
+        "end": "Beijing",
+        "speed": 295,
+        "weight": 12,
+        "cost": 2177,
+        "dist": 986.7
+    },
+    {
+        "start": "Dhaka",
+        "end": "Bangalore",
+        "speed": 295,
+        "weight": 12,
+        "cost": 1115,
+        "dist": 506.7
+    },
+    {
+        "start": "Dhaka",
+        "end": "Beijing",
+        "speed": 295,
+        "weight": 12,
+        "cost": 2177,
+        "dist": 986.7
+    },
+    {
+        "start": "Dhaka",
+        "end": "London",
+        "speed": 295,
+        "weight": 12,
+        "cost": 6487,
+        "dist": 2932.7
+    },
+    {
+        "start": "Istanbul",
+        "end": "London",
+        "speed": 354,
+        "weight": 9.6,
+        "cost": 2191,
+        "dist": 1032.2
+    },
+    {
+        "start": "Istanbul",
+        "end": "Moscow",
+        "speed": 354,
+        "weight": 9.6,
+        "cost": 1639,
+        "dist": 775.8
+    },
+    {
+        "start": "Istanbul",
+        "end": "Dhaka",
+        "speed": 354,
+        "weight": 9.6,
+        "cost": 4044,
+        "dist": 1906.2
+    },
+    {
+        "start": "Istanbul",
+        "end": "Beijing",
+        "speed": 354,
+        "weight": 9.6,
+        "cost": 5547,
+        "dist": 2612.2
+    },
+    {
+        "start": "Istanbul",
+        "end": "Jakarta",
+        "speed": 354,
+        "weight": 9.6,
+        "cost": 5896,
+        "dist": 2779.1
+    },
+    {
+        "start": "Istanbul",
+        "end": "London",
+        "speed": 313,
+        "weight": 4.3,
+        "cost": 857,
+        "dist": 1032.2
+    },
+    {
+        "start": "Istanbul",
+        "end": "Dhaka",
+        "speed": 313,
+        "weight": 4.3,
+        "cost": 1581,
+        "dist": 1906.2
+    },
+    {
+        "start": "Istanbul",
+        "end": "Moscow",
+        "speed": 313,
+        "weight": 4.3,
+        "cost": 641,
+        "dist": 775.8
+    },
+    {
+        "start": "Istanbul",
+        "end": "Barcelona",
+        "speed": 313,
+        "weight": 4.3,
+        "cost": 687,
+        "dist": 828.3
+    },
+    {
+        "start": "Guangzhou",
+        "end": "Tokyo",
+        "speed": 374,
+        "weight": 6.4,
+        "cost": 1323,
+        "dist": 886.2
+    },
+    {
+        "start": "Guangzhou",
+        "end": "Bangkok",
+        "speed": 374,
+        "weight": 6.4,
+        "cost": 754,
+        "dist": 504.6
+    },
+    {
+        "start": "Guangzhou",
+        "end": "Istanbul",
+        "speed": 374,
+        "weight": 6.4,
+        "cost": 3833,
+        "dist": 2560.4
+    },
+    {
+        "start": "Guangzhou",
+        "end": "Moscow",
+        "speed": 374,
+        "weight": 6.4,
+        "cost": 3803,
+        "dist": 2541.6
+    },
+    {
+        "start": "Guangzhou",
+        "end": "Beijing",
+        "speed": 374,
+        "weight": 6.4,
+        "cost": 850,
+        "dist": 568.8
+    },
+    {
+        "start": "Dhaka",
+        "end": "Istanbul",
+        "speed": 374,
+        "weight": 6.8,
+        "cost": 3029,
+        "dist": 1906.2
+    },
+    {
+        "start": "Dhaka",
+        "end": "Bangkok",
+        "speed": 374,
+        "weight": 6.8,
+        "cost": 693,
+        "dist": 438.5
+    },
+    {
+        "start": "Dhaka",
+        "end": "Tokyo",
+        "speed": 374,
+        "weight": 6.8,
+        "cost": 2444,
+        "dist": 1539.6
+    },
+    {
+        "start": "Dhaka",
+        "end": "Beijing",
+        "speed": 374,
+        "weight": 6.8,
+        "cost": 1565,
+        "dist": 986.7
+    },
+    {
+        "start": "Dhaka",
+        "end": "Moscow",
+        "speed": 374,
+        "weight": 6.8,
+        "cost": 3169,
+        "dist": 1995.5
+    },
+    {
+        "start": "Guangzhou",
+        "end": "Tokyo",
+        "speed": 258,
+        "weight": 2.4,
+        "cost": 342,
+        "dist": 886.2
+    },
+    {
+        "start": "Guangzhou",
+        "end": "Beijing",
+        "speed": 258,
+        "weight": 2.4,
+        "cost": 219,
+        "dist": 568.8
+    },
+    {
+        "start": "Guangzhou",
+        "end": "Jakarta",
+        "speed": 258,
+        "weight": 2.4,
+        "cost": 366,
+        "dist": 951.0
+    },
+    {
+        "start": "Guangzhou",
+        "end": "Manila",
+        "speed": 258,
+        "weight": 2.4,
+        "cost": 151,
+        "dist": 392.9
+    },
+    {
+        "start": "Istanbul",
+        "end": "Jakarta",
+        "speed": 368,
+        "weight": 16.2,
+        "cost": 10311,
+        "dist": 2779.1
+    },
+    {
+        "start": "Istanbul",
+        "end": "Seoul",
+        "speed": 368,
+        "weight": 16.2,
+        "cost": 10846,
+        "dist": 2922.6
+    },
+    {
+        "start": "Istanbul",
+        "end": "Dhaka",
+        "speed": 368,
+        "weight": 16.2,
+        "cost": 7072,
+        "dist": 1906.2
+    },
+    {
+        "start": "Istanbul",
+        "end": "Paris",
+        "speed": 368,
+        "weight": 16.2,
+        "cost": 3313,
+        "dist": 894.5
+    },
+    {
+        "start": "Istanbul",
+        "end": "Moscow",
+        "speed": 368,
+        "weight": 16.2,
+        "cost": 2867,
+        "dist": 775.8
+    },
+    {
+        "start": "Istanbul",
+        "end": "Moscow",
+        "speed": 325,
+        "weight": 10.8,
+        "cost": 1690,
+        "dist": 775.8
+    },
+    {
+        "start": "Istanbul",
+        "end": "Jakarta",
+        "speed": 325,
+        "weight": 10.8,
+        "cost": 6080,
+        "dist": 2779.1
+    },
+    {
+        "start": "Istanbul",
+        "end": "Tokyo",
+        "speed": 325,
+        "weight": 10.8,
+        "cost": 7236,
+        "dist": 3307.6
+    },
+    {
+        "start": "Istanbul",
+        "end": "Guangzhou",
+        "speed": 325,
+        "weight": 10.8,
+        "cost": 5607,
+        "dist": 2560.4
+    },
+    {
+        "start": "Istanbul",
+        "end": "Paris",
+        "speed": 325,
+        "weight": 10.8,
+        "cost": 1953,
+        "dist": 894.5
+    },
+    {
+        "start": "Istanbul",
+        "end": "London",
+        "speed": 325,
+        "weight": 10.8,
+        "cost": 2260,
+        "dist": 1032.2
+    },
+    {
+        "start": "Istanbul",
+        "end": "Moscow",
+        "speed": 210,
+        "weight": 3.4,
+        "cost": 345,
+        "dist": 775.8
+    },
+    {
+        "start": "Istanbul",
+        "end": "London",
+        "speed": 210,
+        "weight": 3.4,
+        "cost": 461,
+        "dist": 1032.2
+    },
+    {
+        "start": "Istanbul",
+        "end": "Barcelona",
+        "speed": 210,
+        "weight": 3.4,
+        "cost": 370,
+        "dist": 828.3
+    },
+    {
+        "start": "Istanbul",
+        "end": "Paris",
+        "speed": 210,
+        "weight": 3.4,
+        "cost": 398,
+        "dist": 894.5
+    },
+    {
+        "start": "London",
+        "end": "Paris",
+        "speed": 258,
+        "weight": 2.4,
+        "cost": 55,
+        "dist": 147.1
+    },
+    {
+        "start": "London",
+        "end": "Moscow",
+        "speed": 258,
+        "weight": 2.4,
+        "cost": 487,
+        "dist": 1263.1
+    },
+    {
+        "start": "London",
+        "end": "Istanbul",
+        "speed": 258,
+        "weight": 2.4,
+        "cost": 399,
+        "dist": 1032.2
+    },
+    {
+        "start": "London",
+        "end": "Madrid",
+        "speed": 258,
+        "weight": 2.4,
+        "cost": 171,
+        "dist": 444.1
+    },
+    {
+        "start": "Istanbul",
+        "end": "Paris",
+        "speed": 320,
+        "weight": 17,
+        "cost": 3032,
+        "dist": 894.5
+    },
+    {
+        "start": "Istanbul",
+        "end": "Moscow",
+        "speed": 320,
+        "weight": 17,
+        "cost": 2624,
+        "dist": 775.8
+    },
+    {
+        "start": "Istanbul",
+        "end": "Jakarta",
+        "speed": 320,
+        "weight": 17,
+        "cost": 9439,
+        "dist": 2779.1
+    },
+    {
+        "start": "Istanbul",
+        "end": "Manila",
+        "speed": 320,
+        "weight": 17,
+        "cost": 9778,
+        "dist": 2879.0
+    },
+    {
+        "start": "Istanbul",
+        "end": "Guangzhou",
+        "speed": 320,
+        "weight": 17,
+        "cost": 8704,
+        "dist": 2560.4
+    },
+    {
+        "start": "Istanbul",
+        "end": "Dhaka",
+        "speed": 320,
+        "weight": 17,
+        "cost": 6473,
+        "dist": 1906.2
+    },
+    {
+        "start": "Istanbul",
+        "end": "London",
+        "speed": 320,
+        "weight": 17,
+        "cost": 3508,
+        "dist": 1032.2
+    }
+]
