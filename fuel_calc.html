@@ -9,7 +9,7 @@
 <meta name="author" content="Jaycee Kennett">
 <meta name="dcterms.date" content="2026-10-12">
 
-<title>Calculating fuel efficiencey in NimbleBit’s Pocket Planes</title>
+<title>Calculating fuel efficiencey in Nimblebit’s Pocket Planes</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -121,7 +121,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<div class="quarto-title-block"><div><h1 class="title">Calculating fuel efficiencey in NimbleBit’s Pocket Planes</h1><button type="button" class="btn code-tools-button dropdown-toggle" id="quarto-code-tools-menu" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi"></i> Code</button><ul class="dropdown-menu dropdown-menu-end" aria-labelelledby="quarto-code-tools-menu"><li><a id="quarto-show-all-code" class="dropdown-item" href="javascript:void(0)" role="button">Show All Code</a></li><li><a id="quarto-hide-all-code" class="dropdown-item" href="javascript:void(0)" role="button">Hide All Code</a></li><li><hr class="dropdown-divider"></li><li><a id="quarto-view-source" class="dropdown-item" href="javascript:void(0)" role="button">View Source</a></li></ul></div></div>
+<div class="quarto-title-block"><div><h1 class="title">Calculating fuel efficiencey in Nimblebit’s Pocket Planes</h1><button type="button" class="btn code-tools-button dropdown-toggle" id="quarto-code-tools-menu" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi"></i> Code</button><ul class="dropdown-menu dropdown-menu-end" aria-labelelledby="quarto-code-tools-menu"><li><a id="quarto-show-all-code" class="dropdown-item" href="javascript:void(0)" role="button">Show All Code</a></li><li><a id="quarto-hide-all-code" class="dropdown-item" href="javascript:void(0)" role="button">Hide All Code</a></li><li><hr class="dropdown-divider"></li><li><a id="quarto-view-source" class="dropdown-item" href="javascript:void(0)" role="button">View Source</a></li></ul></div></div>
 </div>
 
 
@@ -150,7 +150,7 @@ window.Quarto = {
 </header>
 
 
-<div id="51de8295" class="cell" data-execution_count="1">
+<div id="e5ef34a6" class="cell" data-execution_count="1">
 <details class="code-fold">
 <summary>See code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># prepare</span></span>
@@ -341,7 +341,7 @@ C \text{ versus } S
 <p><span class="math display">\[
 C \text{ versus } W
 \]</span></p>
-<div id="4f85b2c6" class="cell" data-execution_count="3">
+<div id="6bc0b0c4" class="cell" data-execution_count="3">
 <details class="code-fold">
 <summary>See code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>echo: false</span>
@@ -515,7 +515,7 @@ C = a + bD + cS + dW
 </tr>
 <tr class="odd">
 <th data-quarto-table-cell-role="th">Time:</th>
-<td>16:26:19</td>
+<td>16:34:01</td>
 <th data-quarto-table-cell-role="th">Log-Likelihood:</th>
 <td>-486.27</td>
 </tr>
@@ -718,7 +718,7 @@ C = a+kX
 C=a+kDWS
 \]</span></p>
 <p>A simple linear regression was fitted between observed fuel cost and (DWS).</p>
-<div id="78e73f28" class="cell" data-execution_count="12">
+<div id="5736f2e2" class="cell" data-execution_count="12">
 <details class="code-fold">
 <summary>See code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>results.append(<span class="st">"</span><span class="ch">\n</span><span class="st">DWS MODEL"</span>)</span>
@@ -764,7 +764,7 @@ DWS
 <section id="compare-models-with-and-without-an-intercept" class="level2">
 <h2 class="anchored" data-anchor-id="compare-models-with-and-without-an-intercept">7. Compare models with and without an intercept</h2>
 <p>Two versions of the multiplicative model were compared, one with an intercept, and one without.</p>
-<div id="6f04aca8" class="cell" data-execution_count="13">
+<div id="b6504577" class="cell" data-execution_count="13">
 <details class="code-fold">
 <summary>See code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>k_zero <span class="op">=</span> np.<span class="bu">sum</span>(x <span class="op">*</span> y) <span class="op">/</span> np.<span class="bu">sum</span>(x<span class="op">**</span><span class="dv">2</span>)</span>
@@ -881,7 +881,7 @@ C=kDWS
 </section>
 <section id="examine-the-implied-value-of-k-for-individual-observations" class="level2">
 <h2 class="anchored" data-anchor-id="examine-the-implied-value-of-k-for-individual-observations">8. Examine the implied value of (k) for individual observations</h2>
-<div id="f1754237" class="cell" data-execution_count="14">
+<div id="4695af1c" class="cell" data-execution_count="14">
 <details class="code-fold">
 <summary>See code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> df.with_columns(</span>
@@ -1684,7 +1684,7 @@ W
   });
   </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Calculating fuel efficiencey in NimbleBit's Pocket Planes"</span></span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Calculating fuel efficiencey in Nimblebit's Pocket Planes"</span></span>
 <span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a><span class="an">author:</span></span>
 <span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a><span class="co">  - name: "Jaycee Kennett"</span></span>
 <span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a><span class="an">date:</span><span class="co"> today</span></span>
